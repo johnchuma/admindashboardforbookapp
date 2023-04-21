@@ -37,7 +37,7 @@ function App() {
     }
 
     
-])
+],{basename:"/admindashboardforbookapp"})
   return (
    
           <AuthProvider>
